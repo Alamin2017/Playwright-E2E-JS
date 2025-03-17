@@ -1,4 +1,3 @@
-import { Page } from '@playwright/test';
 export class HomeLocator{
 
     constructor(page) {
